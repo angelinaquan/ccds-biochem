@@ -1,6 +1,4 @@
 # ccds-biochem
-Charlotte Country Country Day School Physical Computational Biochemistry Research Code
-
 
 Initial Setup: 
 -	Install Rstudio in school store
